@@ -1,5 +1,7 @@
 Rencana team developer manu-tech
-- javascript
+- javascript 
+  * ES6
+  * Framework Javascript
 - PHP framework
 - interview
 - vlogs
