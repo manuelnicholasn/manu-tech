@@ -2,6 +2,7 @@ Rencana team developer manu-tech
 - javascript 
   * ES6
   * Framework Javascript
+- Fundamental Data Structure
 - PHP framework
 - interview
 - vlogs
