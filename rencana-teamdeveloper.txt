@@ -2,7 +2,11 @@ Rencana team developer manu-tech
 - javascript 
   * ES6
   * Framework Javascript
+  ^ Vue
+  ^ React
 - Fundamental Data Structure
 - PHP framework
+  ^ Laravel
 - interview
 - vlogs
+- python
